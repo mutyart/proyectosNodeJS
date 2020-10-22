@@ -1,0 +1,8 @@
+2020.10.21 15:27:50 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\pablo\Desktop\Practicas-NodeJS\basicas-de-node' for client vscode.
+2020.10.21 15:27:54 INFO  time: initialize in 4.06s
+2020.10.21 15:27:56 WARN  no build tool detected in workspace 'C:\Users\pablo\Desktop\Practicas-NodeJS\basicas-de-node'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.22 14:34:31 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\pablo\Desktop\Practicas-NodeJS\basicas-de-node' for client vscode.
+2020.10.22 14:34:34 INFO  time: initialize in 2.4s
+2020.10.22 14:34:38 WARN  no build tool detected in workspace 'C:\Users\pablo\Desktop\Practicas-NodeJS\basicas-de-node'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 22, 2020 2:40:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
