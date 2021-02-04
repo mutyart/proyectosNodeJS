@@ -1,10 +1,9 @@
 ## Aplicación de comandos
 
-Este es el ejercicio del curso
+Aplicaciones de linea de comandos
 
 
-Recuerden instalar los paquetes de node
-
+para su ejecucion es importante instalar los paquetes
 ```
 npm install
 ```
